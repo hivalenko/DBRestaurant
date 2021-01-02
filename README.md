@@ -1,2 +1,2 @@
 # DBRestaurant
-Materials from development of database for restaurant.
+Materials from study development of database for abstract restaurant.
